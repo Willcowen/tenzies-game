@@ -8,16 +8,16 @@ function App() {
   return (
     <main className="App">
       <div className='container'>
-        <Die />
-        <Die />
-        <Die />
-        <Die />
-        <Die />
-        <Die />
-        <Die />
-        <Die />
-        <Die />
-        <Die />
+        <Die value='1' />
+        <Die value='1' />
+        <Die value='1' />
+        <Die value='1' />
+        <Die value='1' />
+        <Die value='1' />
+        <Die value='1' />
+        <Die value='1' />
+        <Die value='1' />
+        <Die value='1' />
       </div>
     </main>
   )
